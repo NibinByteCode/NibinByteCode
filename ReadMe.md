@@ -46,13 +46,6 @@ I build, secure and support **enterprise and government software**, from archite
 
 </div>
 
-## 🏆GitHub Trophies
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=NibinByteCode&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
 ### ✍️Random Dev Quote
 <div align="center">
 
