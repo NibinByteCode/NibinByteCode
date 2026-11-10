@@ -32,9 +32,17 @@ I build, secure and support **enterprise and government software**, from archite
 # 📊GitHub Stats :
 <div align="center">
 
+<!-- These cards are generated daily by .github/workflows/profile-summary-cards.yml and stored in this repo -->
+<img src="https://raw.githubusercontent.com/NibinByteCode/NibinByteCode/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile details" width="49%" />
+<img src="https://raw.githubusercontent.com/NibinByteCode/NibinByteCode/main/profile-summary-card-output/radical/3-stats.svg" alt="GitHub stats" width="49%" />
+<img src="https://raw.githubusercontent.com/NibinByteCode/NibinByteCode/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top languages" width="49%" />
+<img src="https://raw.githubusercontent.com/NibinByteCode/NibinByteCode/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive time" width="49%" />
+<br/>
+<img src="https://streak-stats.demolab.com/?user=NibinByteCode&theme=radical&hide_border=false" alt="GitHub streak" />
+<br/>
 
-<img src="https://streak-stats.demolab.com/?user=NibinByteCode&theme=radical&hide_border=false" alt="GitHub streak" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NibinByteCode&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
+### 🧰 Most Used Technologies
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,ts,js,angular,react,vue,mssql,postgres,azure,docker,kubernetes,githubactions,git,tailwind,java,python&perline=9" alt="Most used technologies" />
 
 </div>
 
