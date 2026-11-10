@@ -17,7 +17,7 @@
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" alt="wave"> About Me
 
-I build, secure and support **enterprise and government software**, from architecture through production, across **Canada and India**. My core is **C#, .NET and SQL Server**, with **Node.js** services, **Angular / React / Vue** frontends and **Azure** deployments. I also bring AI-assisted development into everyday engineering.
+I build, secure and support **enterprise and government software**, from architecture through production, across **Canada and India**. My core is **C#, .NET and SQL Server**, with **Node.js** services,**Java Spring Boot**, **Angular / React / Vue** frontends and **Azure** deployments. I also bring AI-assisted development into everyday engineering.
 
 > 🎯 **Looking for:** Senior .NET / Full-Stack Developer roles in Canada
 > 🌱 **Currently:** working toward the **Microsoft Azure AI Developer** certification
