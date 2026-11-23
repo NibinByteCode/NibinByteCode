@@ -38,7 +38,10 @@ I build, secure and support **enterprise and government software**, from archite
 <img src="https://raw.githubusercontent.com/NibinByteCode/NibinByteCode/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top languages" width="49%" />
 <img src="https://raw.githubusercontent.com/NibinByteCode/NibinByteCode/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive time" width="49%" />
 <br/>
-<img src="https://streak-stats.demolab.com/?user=NibinByteCode&theme=radical&hide_border=false" alt="GitHub streak" />
+<img
+  src="https://streak-stats.demolab.com/?user=NibinByteCode&theme=radical&hide_border=false&v=2"
+  alt="GitHub streak"
+/>
 <br/>
 
 ### 🧰 Most Used Technologies
